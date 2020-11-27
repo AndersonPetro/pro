@@ -1,4 +1,5 @@
 Teste
-Entendendo o HEAD
+Entendendo o HEAD   auhsdusdhudhudhs1
 Esta linha foi modificada no ramo Master
 Esta linha foi modificada no ramo teste
+Esta linha para modificada para clone
